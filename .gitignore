@@ -1,0 +1,42 @@
+# Build directories
+bin/
+obj/
+build/
+dist/
+
+# Dependencies
+node_modules/
+vendor/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+
+# Environment files
+.env
+.env.*
+config.local.yaml
+
+# Logs
+*.log
+logs/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.debug
+
+# Backup files
+*~
+*.bak
